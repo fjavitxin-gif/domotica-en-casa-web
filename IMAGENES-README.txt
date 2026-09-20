@@ -1,3 +1,3 @@
-Se ha eliminado image.thum.io y todas las capturas automáticas de páginas.
-No se han copiado imágenes de Amazon dentro del ZIP. Según las políticas actuales de Amazon Afiliados, las imágenes de producto obtenidas mediante Creators API/PA API están sujetas a su licencia y no deben almacenarse en caché como imágenes.
-Cuando la cuenta tenga acceso autorizado, integrar las imágenes mediante el mecanismo permitido por Amazon o usar imágenes propias/con licencia expresa.
+Catálogo completo: 28 fichas con ilustraciones digitales orientativas, NO fotografías oficiales.
+La carpeta imagenes/ contiene una imagen PNG por producto. Las ocho ilustraciones nuevas incluyen sus archivos SVG editables.
+En la web se indica expresamente que las recreaciones pueden diferir del modelo real. Comprueba la fotografía y versión en el fabricante o vendedor antes de publicar anuncios.
